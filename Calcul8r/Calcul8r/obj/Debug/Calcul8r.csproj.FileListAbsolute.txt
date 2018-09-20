@@ -1,0 +1,14 @@
+G:\Calcul8r\Calcul8r\bin\Debug\Calcul8r.exe.config
+G:\Calcul8r\Calcul8r\bin\Debug\Calcul8r.exe
+G:\Calcul8r\Calcul8r\bin\Debug\Calcul8r.pdb
+G:\Calcul8r\Calcul8r\obj\Debug\Calcul8r.csprojAssemblyReference.cache
+G:\Calcul8r\Calcul8r\obj\Debug\Calcul8r.Form1.resources
+G:\Calcul8r\Calcul8r\obj\Debug\Calcul8r.Properties.Resources.resources
+G:\Calcul8r\Calcul8r\obj\Debug\Calcul8r.csproj.GenerateResource.cache
+G:\Calcul8r\Calcul8r\obj\Debug\Calcul8r.csproj.CoreCompileInputs.cache
+G:\Calcul8r\Calcul8r\obj\Debug\Calcul8r.exe
+G:\Calcul8r\Calcul8r\obj\Debug\Calcul8r.pdb
+G:\Calcul8r\Calcul8r\bin\Debug\Calcul8r.exe.manifest
+G:\Calcul8r\Calcul8r\bin\Debug\Calcul8r.application
+G:\Calcul8r\Calcul8r\obj\Debug\Calcul8r.exe.manifest
+G:\Calcul8r\Calcul8r\obj\Debug\Calcul8r.application
